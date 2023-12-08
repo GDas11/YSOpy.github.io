@@ -1,7 +1,5 @@
 # YSOSpectrum
-*******************************
 This Python package is currently in the **DEVELOPMENTAL STAGE**.
-*******************************
 We are currently working on bringing a new Python package to study and characterise the spectrum of young stellar objects (YSOs).
 This pipeline currently looks into four aspects of the spectrum:-
 - Viscously Heated Disk
