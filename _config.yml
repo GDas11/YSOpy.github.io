@@ -1,2 +1,1 @@
-theme: hitchens-theme
-ignore_theme_config: true
+remote_theme: chrisrhymes/bulma-clean-theme
