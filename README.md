@@ -1,5 +1,5 @@
-<img width="618" alt="Screenshot 2023-12-27 at 19 29 59" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/b35835db-a300-4c25-a6b0-59b7f6336c7a">
-<img width="821" alt="Screenshot 2023-12-27 at 19 29 18" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/5eef68a2-3ce9-46f8-ba8c-cb270ca3d239">
+<img width="618" alt="Screenshot 2023-12-27 at 19 34 24" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/e5145ef1-c0e0-4d8d-ad17-9b8302f06ee5">
+<img width="1025" alt="Screenshot 2023-12-27 at 19 34 42" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/39ea68b7-b137-4b5d-a620-0a6357c395c9">
 
 # YSOSpectrum
 This Python package is currently in the **DEVELOPMENTAL STAGE**.
