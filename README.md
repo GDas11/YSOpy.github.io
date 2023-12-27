@@ -1,4 +1,5 @@
-<img width="618" alt="Screenshot 2023-12-27 at 19 29 59" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/8f31cd65-3dc7-459e-8a17-31d708978322">
+<img width="618" alt="Screenshot 2023-12-27 at 19 29 59" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/b35835db-a300-4c25-a6b0-59b7f6336c7a">
+<img width="821" alt="Screenshot 2023-12-27 at 19 29 18" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/5eef68a2-3ce9-46f8-ba8c-cb270ca3d239">
 
 # YSOSpectrum
 This Python package is currently in the **DEVELOPMENTAL STAGE**.
@@ -28,4 +29,4 @@ Now using these grids we are using the function```cos_gamma_func()``` and ```mag
 We are using two functions in ```base_funcs.py``` namely ```t_eff_dust()``` and ```generate_dusty_disk_flux()``` to get the dusty component of radiation.
 
 ## Stellar Photosphere
-We are using ```generate_photosphere_flux()``` from ```base_funcs.py``` to generate the stellar photoshpheric flux.
+We are using ```generate_photosphere_flux()``` from ```base_funcs.py``` to generate the stellar photospheric flux.
