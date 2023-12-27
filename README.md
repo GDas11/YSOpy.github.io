@@ -1,5 +1,3 @@
-<img width="618" alt="Screenshot 2023-12-27 at 19 34 24" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/e5145ef1-c0e0-4d8d-ad17-9b8302f06ee5">
-<img width="1025" alt="Screenshot 2023-12-27 at 19 34 42" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/39ea68b7-b137-4b5d-a620-0a6357c395c9">
 
 # YSOSpectrum
 This Python package is currently in the **DEVELOPMENTAL STAGE**.
@@ -9,6 +7,7 @@ This pipeline currently looks into four aspects of the spectrum:-
 - Magnetospheric Accretion
 - Dusty Disk
 - Stellar Photosphere
+<img width="618" alt="Screenshot 2023-12-27 at 19 34 24" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/e5145ef1-c0e0-4d8d-ad17-9b8302f06ee5">
 
 ## Viscously heated disk:-
 This is the most important part of the spectrum as it is the dominant component contributing to the flux. 
@@ -19,7 +18,7 @@ In our calculations the data generated is not evenly distributed across all wave
 Now in order to capture the rotational broadening of the disk we have to convolve the flux values with a kernel. we define and implement the kernel in ```ker()``` and ```generate_kernel()``` respectively.
 Finally we are having a function named ```generate_visc_flux()``` which is ultimately generating the convolved flux of the viscous disk.
 
-
+<img width="1025" alt="Screenshot 2023-12-27 at 19 34 42" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/39ea68b7-b137-4b5d-a620-0a6357c395c9">
 ## Magnetospheric accretion
 For this component we are making use of 3 files ```base_funcs.py```, ```h_emission_refac.py``` and ```H-gen_file.py```.
 As the names suggest we are generating the grids for H component and H- component of slab model using ```h_emission_refac.py``` and ```H-gen_file.py``` respectively.
