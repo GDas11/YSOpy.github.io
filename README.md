@@ -1,3 +1,5 @@
+<img width="618" alt="Screenshot 2023-12-27 at 19 29 59" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/8f31cd65-3dc7-459e-8a17-31d708978322">
+
 # YSOSpectrum
 This Python package is currently in the **DEVELOPMENTAL STAGE**.
 We are currently working on bringing a new Python package to study and characterise the spectrum of young stellar objects (YSOs).
