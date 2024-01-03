@@ -7,6 +7,7 @@ This pipeline currently looks into four aspects of the spectrum:-
 - Magnetospheric Accretion
 - Dusty Disk
 - Stellar Photosphere
+  
 <img width="618" alt="Screenshot 2023-12-27 at 19 34 24" src="https://github.com/GDas11/YSOpy.github.io/assets/126319120/e5145ef1-c0e0-4d8d-ad17-9b8302f06ee5">
 
 ## Viscously heated disk:-
